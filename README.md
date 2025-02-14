@@ -22,7 +22,7 @@ This repository contains key **UML diagrams** representing the system’s design
 I was responsible for designing the **Sequence Diagram, Architecture Diagram, and Class Diagram**, ensuring a structured representation of the system’s design.  
 
 ## 📄 **Project Documentation**  
-You can find the full set of diagrams in the [Download Project Diagrams](./UML Diagrams.pdf).  
+You can find the full set of diagrams in the [Download Project Diagrams](./"UML Diagrams.pdf") 
 
 ## 🚀 **Technologies & Tools**  
 - **Software Ideas Modeler** (for diagram creation)  
