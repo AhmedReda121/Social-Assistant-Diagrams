@@ -3,7 +3,7 @@
 
 ## 📌 **Project Overview**  
 This project is designed to assist individuals who struggle with social interactions at events. It provides:  
-✅ **Outfit Suggestions** – Recommends appropriate attire for different events.  
+✅ **Outfit Suggestions** – Recommends appropriate outfut for different events.  
 ✅ **Conversation Starters** – Suggests relevant topics to talk about.  
 ✅ **Practice Mode** – Simulates conversations before the event.  
 ✅ **Post-Event Feedback** – Allows users to reflect on their social interactions.  
